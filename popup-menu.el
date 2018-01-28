@@ -1,6 +1,8 @@
 ;;;   popup-menu.el  -- pop up a menu under the mouse pointer
 ;;;   $Id: popup-menu.el,v 1.6 1999/10/18 17:52:53 kiesling Exp $
 ;;;
+;;;   License: GPL
+;;;
 ;;;   This file is not part of GNU Emacs, but is copyrighted by
 ;;;   the GNU General Public License, http://www.gnu.org/
 ;;;
